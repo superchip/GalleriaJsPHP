@@ -1,0 +1,1 @@
+This project uses galleria js, php server side to dinamiclly display images from mysql database
