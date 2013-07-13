@@ -8,7 +8,7 @@ class GalleryDBConfig
     static $server_name = "ronsgallery-db.my.phpcloud.com";
     static $db_name = "ronsgallery";
     static $db_username = "ronsgallery";
-    static $db_password = "Nevelot";
+    static $db_password = "******";
     static $port = 3306;
 }
 
